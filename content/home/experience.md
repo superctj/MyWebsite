@@ -38,4 +38,19 @@ date_format = "Jan 2006"
   * Hold office hours and answer questions on Piazza
   * Propose and write homework/exam questions
   """
+[[experience]]
+  title = "Program Assistant"
+  company = "English Language Institute"
+  company_url = ""
+  location = "University of Michigan"
+  date_start = "2018-07-24"
+  date_end = "2018-08-14"
+  description = """
+
+  A paid consulting​ ​position in a GSI teacher preparation course for students 
+  who speak English as an additional language. Undergraduate consultants 
+  participate in practice office hours and teaching sessions, as they would for 
+  a regular class​,​ and give feedback to  prospective GSIs on the quality of 
+  their instruction.​
+  """
 +++
