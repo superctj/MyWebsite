@@ -29,7 +29,7 @@ education:
   - course: PhD in Computer Science
     institution: University of Michigan
     # year: 2026
-  - course: MS in Computer Science
+  - course: MSc in Computer Science
     institution: University of Michigan
     # year:2022
   - course: BSc in Computer Science and Math (Dual Degree)
@@ -64,9 +64,11 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
+
+# Biography
 ---
 
 I am a first-year Ph.D. student at the University of Michigan, advised by [Prof. Atul Prakash](https://web.eecs.umich.edu/~aprakash/).
