@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "Instructional Aide"
   company = "EECS 484 Database Management Systems"
   company_url = ""
-  location = "University of Michigan"
+  location = "University of Michigan, Ann Arbor"
   date_start = "2019-09-01"
   date_end = "2020-04-30"
   description = """
@@ -38,11 +38,27 @@ date_format = "Jan 2006"
   * Hold office hours and answer questions on Piazza
   * Propose and write homework/exam questions
   """
+
+[[experience]]
+  title = "Research Intern"
+  company = "Database Research Group, advised by [Prof. Michael Cafarella](https://web.eecs.umich.edu/~michjc/index.html)"
+  company_url = http://dbgroup.eecs.umich.edu
+  location = "University of Michigan, Ann Arbor"
+  date_start = "2019-05-06"
+  date_end = "2019-08-31"
+  description = """
+
+  A paid research programming position. I was primarily working on two projects:
+  
+  * TAHOMA: A hierarchical video analytic system
+  * ECON: A price predictor based on product descriptions
+  """
+
 [[experience]]
   title = "Program Assistant"
   company = "English Language Institute"
-  company_url = ""
-  location = "University of Michigan"
+  company_url = https://lsa.umich.edu/eli
+  location = "University of Michigan, Ann Arbor"
   date_start = "2018-07-24"
   date_end = "2018-08-14"
   description = """
