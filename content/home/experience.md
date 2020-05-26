@@ -40,8 +40,8 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Research Intern"
-  company = "Database Research Group, advised by [Prof. Michael Cafarella](https://web.eecs.umich.edu/~michjc/index.html)"
+  title = "Research Intern, advised by [Prof. Michael Cafarella](https://web.eecs.umich.edu/~michjc/index.html)"
+  company = "Database Research Group"
   company_url = "http://dbgroup.eecs.umich.edu"
   location = "University of Michigan, Ann Arbor"
   date_start = "2019-05-06"
