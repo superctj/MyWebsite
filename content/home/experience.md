@@ -42,7 +42,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Intern"
   company = "Database Research Group, advised by [Prof. Michael Cafarella](https://web.eecs.umich.edu/~michjc/index.html)"
-  company_url = http://dbgroup.eecs.umich.edu
+  company_url = "http://dbgroup.eecs.umich.edu"
   location = "University of Michigan, Ann Arbor"
   date_start = "2019-05-06"
   date_end = "2019-08-31"
@@ -57,7 +57,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Program Assistant"
   company = "English Language Institute"
-  company_url = https://lsa.umich.edu/eli
+  company_url = "https://lsa.umich.edu/eli"
   location = "University of Michigan, Ann Arbor"
   date_start = "2018-07-24"
   date_end = "2018-08-14"
