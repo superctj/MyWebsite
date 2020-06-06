@@ -28,9 +28,9 @@ date_format = "Jan 2006"
 
   Course Instructors
 
-  * Winter 2020: [Peter Honeyman](http://www.citi.umich.edu/u/honey/), Raed Almomani
+  * Winter 2020: [Prof. Peter Honeyman](http://www.citi.umich.edu/u/honey/), Prof. Raed Almomani
 
-  * Fall 2019: [Atul Prakash](https://web.eecs.umich.edu/~aprakash/)
+  * Fall 2019: [Prof. Atul Prakash](https://web.eecs.umich.edu/~aprakash/), Prof. Raed Almomani
 
   Responsibilities include
   
