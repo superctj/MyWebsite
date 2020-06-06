@@ -71,4 +71,4 @@ email: ""
 # Biography
 ---
 
-I am a first-year Ph.D. student at the University of Michigan, advised by [Prof. Atul Prakash](https://web.eecs.umich.edu/~aprakash/).
+I am a first-year Ph.D. student in Computer Science Engineering at the University of Michigan, advised by [Prof. Atul Prakash](https://web.eecs.umich.edu/~aprakash/). My research interests primarily fall on adversarial machine learning. Specifically, I am investigating techniques that can improve robustness of deep neural networks.
