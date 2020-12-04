@@ -26,11 +26,11 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: PhD Precandidate in Computer Science
     institution: University of Michigan
     # year: 2026
-  - course: MSc in Computer Science
-    institution: University of Michigan
+  # - course: MSc in Computer Science
+  #   institution: University of Michigan
     # year:2022
   - course: BSc in Computer Science and Math (Dual Degree)
     institution: University of Michigan
@@ -55,9 +55,9 @@ social:
   link: https://twitter.com/Tianji92441841
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
+- icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
