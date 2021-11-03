@@ -42,8 +42,8 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
- icon_pack: fas
- mailto: congtj@umich.edu
+  icon_pack: fas
+  mailto:congtj@umich.edu
  #link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
