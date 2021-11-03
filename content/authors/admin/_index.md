@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD Precandidate in Computer Science
     institution: University of Michigan
-    # year: 2026
+    year: 2026 (expected)
   # - course: MSc in Computer Science
   #   institution: University of Michigan
     # year:2022
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: congtj@umich.edu
+  mailto: congtj@umich.edu
  #link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
