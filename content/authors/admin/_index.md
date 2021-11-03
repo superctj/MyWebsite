@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student, Computer Science
+role: PhD Student, Computer Science and Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,8 @@ organizations:
 bio: ""
 
 interests:
-- Adversarial Machine Learning
-- Responsible Data Science
+- Data Management
+- Deep Learning
 
 education:
   courses:
@@ -41,9 +41,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+ icon_pack: fas
+ mailto: congtj@umich.edu
+ #link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=3ToRqNMAAAAJ&hl=en
@@ -55,9 +56,9 @@ social:
   link: https://twitter.com/Tianji92441841
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
+# - icon: cv
 #   icon_pack: ai
-  link: files/cv.pdf
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,4 +72,4 @@ email: ""
 # Biography
 ---
 
-I am a first-year Ph.D. student in Computer Science Engineering at the University of Michigan, advised by [Prof. Atul Prakash](https://web.eecs.umich.edu/~aprakash/). My research interests primarily fall on adversarial machine learning. Specifically, I am investigating techniques that can improve robustness of deep neural networks.
+I am a Ph.D. student in Computer Science and Engineering at the University of Michigan, advised by Professor [H. V. Jagadish](https://web.eecs.umich.edu/~jag/). My primary research interest falls on data management for semi-structured data. My current work focuses on data discovery and data integration in data lakes. I originally come from deep learning background, investigating robustness and uncertainty of deep neural networks.
