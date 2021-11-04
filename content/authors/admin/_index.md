@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Michigan
-    year: 2026 (expected)
+    year: 2026 (Expected)
   # - course: MSc in Computer Science
   #   institution: University of Michigan
     # year:2022
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "congtj@umich.edu"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
