@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: PhD Precandidate in Computer Science
+  - course: PhD in Computer Science
     institution: University of Michigan
     year: 2026 (expected)
   # - course: MSc in Computer Science
