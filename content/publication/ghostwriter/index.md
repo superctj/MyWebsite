@@ -1,7 +1,7 @@
 ---
 title: "GhostWriter: Query Efficient Document-Level Rewriting Attacks on Black Box Text Classifiers"
-date: "2021-6-8"
-authors: ["Neal Mangaokar", "**Tianji Cong**", "Atul Prakash"]
+date: "2021-06-08"
+authors: ["Neal Mangaokar", "Tianji Cong", "Atul Prakash"]
 publication_types: ["1"]
 publication: "Under Revision"
 abstract: ""
