@@ -72,4 +72,4 @@ email: ""
 # Biography
 ---
 
-I am a Ph.D. student in Computer Science and Engineering at the University of Michigan, advised by Professor [H. V. Jagadish](https://web.eecs.umich.edu/~jag/). My primary research interest falls on data management for semi-structured data. My current work focuses on data discovery and data integration in data lakes. I originally come from deep learning background, investigating robustness and uncertainty of deep neural networks.
+I am a Ph.D. student in Computer Science and Engineering at the University of Michigan, advised by professor [H. V. Jagadish](https://web.eecs.umich.edu/~jag/). My primary research interest is in data management for semi-structured data. My current work focuses on data discovery and data integration in data lakes. I previously worked with professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/), investigating robustness and uncertainty of deep neural networks.
