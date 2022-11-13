@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student, Computer Science and Engineering
+role: PhD Candidate, Computer Science and Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -26,13 +26,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: PhD in Computer Science and Engineering
     institution: University of Michigan
-    year: 2026 (Expected)
+    year: 2025 (Expected)
   # - course: MSc in Computer Science
   #   institution: University of Michigan
     # year:2022
-  - course: BSc in Computer Science and Math (Dual Degree)
+  - course: BSc in Computer Science and Math (Double Major)
     institution: University of Michigan
     year: 2020
 
@@ -72,4 +72,6 @@ email: ""
 # Biography
 ---
 
-I am a Ph.D. student in Computer Science and Engineering at the University of Michigan, advised by professor [H. V. Jagadish](https://web.eecs.umich.edu/~jag/). My primary research interest is in data management for semi-structured data. My current work focuses on data discovery and data integration in data lakes. I previously worked with professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/), investigating robustness and uncertainty of deep neural networks.
+Tianji Cong is a Ph.D. candidate at the University of Michigan Computer Science & Engineering Division. He is interested in data management for structured and semi-structured data. His current work focuses on data discovery and data integration in data lakes and cloud data warehouses.
+
+<!-- I am a Ph.D. student in Computer Science and Engineering at the University of Michigan, advised by professor [H. V. Jagadish](https://web.eecs.umich.edu/~jag/). My primary research interest is in data management for semi-structured data. My current work focuses on data discovery and data integration in data lakes. I previously worked with professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/), investigating robustness and uncertainty of deep neural networks. -->
