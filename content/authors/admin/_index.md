@@ -22,7 +22,6 @@ bio: ""
 
 interests:
 - Data Management
-- Deep Learning
 
 education:
   courses:
