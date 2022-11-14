@@ -3,7 +3,7 @@ title: "Sneakoscope: Revisiting Unsupervised OOD Detection"
 date: "2021-10-06"
 authors: ["Tianji Cong", "Atul Prakash"]
 publication_types: ["1"]
-publication: "Under Review"
+publication: "Rejected"
 abstract: ""
 featured: false
 #url_pdf: https://arxiv.org/abs/1911.11946

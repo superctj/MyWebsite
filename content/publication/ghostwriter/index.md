@@ -3,7 +3,7 @@ title: "GhostWriter: Query Efficient Document-Level Rewriting Attacks on Black B
 date: "2021-06-08"
 authors: ["Neal Mangaokar", "Tianji Cong", "Atul Prakash"]
 publication_types: ["1"]
-publication: "Under Revision"
+publication: "Rejected"
 abstract: ""
 featured: false
 #url_pdf: https://arxiv.org/abs/1911.11946
