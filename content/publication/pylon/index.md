@@ -1,6 +1,6 @@
 ---
 title: "Pylon: Semantic Table Union Search in Data Lakes"
-date: "2022-7-15"
+date: "2022-07-15"
 authors: ["Tianji Cong", "Fatemeh Nargesian", "H. V. Jagadish"]
 publication_types: ["1"]
 publication: "*Arxiv*"
