@@ -22,16 +22,18 @@ bio: ""
 
 interests:
 - Data Management
+- Representation Learning
+- Query Optimization
 
 education:
   courses:
-  - course: PhD in Computer Science and Engineering
+  - course: Ph.D. in Computer Science and Engineering
     institution: University of Michigan
     year: 2025 (Expected)
   # - course: MSc in Computer Science
   #   institution: University of Michigan
     # year:2022
-  - course: BSc in Computer Science and Math (Double Major)
+  - course: B.S. with Distinction in Computer Science and Honors Mathematics (Double Major)
     institution: University of Michigan
     year: 2020
 
