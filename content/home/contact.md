@@ -1,11 +1,11 @@
 +++
 # Contact widget.
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 130  # Order that this section will appear.
+headless = false  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
 
-title = "Contact"
+title = ""
 subtitle = ""
 
 # Automatically link email and phone?
@@ -16,4 +16,8 @@ autolink = true
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
 email_form = 0
+
+[design.background]
+  image = "firework_background.jpg"  # Name of image in `static/img/`.
+  image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 +++
