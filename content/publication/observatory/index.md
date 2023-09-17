@@ -6,6 +6,15 @@ publication_types: ["1"]
 publication: "*Under Review*"
 abstract: ""
 featured: false
-# url_pdf: https://arxiv.org/abs/2301.04901v2
-url_code: https://github.com/superctj/observatory
+image:
+    preview only: true
+links:
+# - name: PDF
+#   url: 
+#   icon_pack: fas
+#   icon: file-pdf
+- name: Code
+  url: https://github.com/superctj/observatory
+  icon_pack: fab
+  icon: github
 ---
