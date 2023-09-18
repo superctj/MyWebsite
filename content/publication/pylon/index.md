@@ -4,6 +4,7 @@ date: "2022-07-15"
 authors: ["Tianji Cong", "Fatemeh Nargesian", "H. V. Jagadish"]
 publication_types: ["1"]
 publication: "*Arxiv*"
+# publication_short: "*Arxiv*"
 abstract: ""
 featured: false
 image:
