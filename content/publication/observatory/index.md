@@ -10,10 +10,10 @@ featured: false
 image:
     preview only: true
 links:
-# - name: PDF
-#   url: 
-#   icon_pack: fas
-#   icon: file-pdf
+- name: PDF
+  url: https://arxiv.org/abs/2310.07736
+  icon_pack: fas
+  icon: file-pdf
 - name: Code
   url: https://github.com/superctj/observatory
   icon_pack: fab
