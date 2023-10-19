@@ -23,16 +23,12 @@ bio: ""
 interests:
 - Data Management
 - Representation Learning
-- Query Optimization
 
 education:
   courses:
   - course: Ph.D. in Computer Science and Engineering
     institution: University of Michigan
     year: 2025 (Expected)
-  # - course: MSc in Computer Science
-  #   institution: University of Michigan
-    # year:2022
   - course: B.S. with Distinction in Computer Science and Honors Mathematics (Double Major)
     institution: University of Michigan
     year: 2020
@@ -73,4 +69,4 @@ email: ""
 # Biography
 ---
 
-Tianji Cong is a Ph.D. candidate at the University of Michigan Computer Science & Engineering Division. He is affiliated with the Database Research Group advised by Professor H. V. Jagadish. He is interested in data management for structured and semi-structured data. His current work focuses on representation learning for tabular data discovery, semantics understanding, and integration.
+Tianji Cong is a Ph.D. candidate at the University of Michigan Computer Science & Engineering Division. He is advised by Professor H. V. Jagadish and affiliated with the Database Research Group. His research interest falls at the intersection of deep learning and data management for structured and semi-structured data. The line of work he is pushing forward revolves around representation learning for tabular data discovery, semantics understanding, and database performance optimization.
