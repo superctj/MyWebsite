@@ -1,5 +1,5 @@
 ---
-title: "WarpGate: A Prototype System for Semantic Join Discovery over Cloud Data Warehouses (CIDR 2023)"
+title: "WarpGate: A Prototype System for Semantic Join Discovery over Cloud Data Warehouses"
 date: "2022-09-02"
 authors: ["Tianji Cong", "James Gale", "Jason Frantz", "H. V. Jagadish", "Çağatay Demiralp"]
 publication_types: ["1"]
