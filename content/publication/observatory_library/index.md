@@ -3,7 +3,7 @@ title: "Introducing the Observatory Library for End-to-End Table Embedding Infer
 date: "2023-10-04"
 authors: ["Tianji Cong", "Zhenjie Sun*", "Paul Groth", "H. V. Jagadish", "Madelon Hulsebos (* Co-first author)"]
 publication_types: ["1"]
-publication: "The 2nd Table Representation Learning Workshop of NeurIPS 2023"
+publication: "The 2nd Table Representation Learning Workshop of NeurIPS 2023 (TRL@NeurIPS'23)"
 # publication_short: "*Under Revision*"
 abstract: ""
 featured: false
