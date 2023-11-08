@@ -9,13 +9,18 @@
   weight = 10
 
 [[main]]
+  name = "Recent News"
+  url = "#recent_news"
+  weight = 15
+
+[[main]]
   name = "Publication"
   url = "#publication"
   weight = 20
 
-[[main]]
-  url = "#contact"
-  weight = 30
+# [[main]]
+#  url = "#contact"
+#  weight = 25
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
