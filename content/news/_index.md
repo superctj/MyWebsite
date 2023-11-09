@@ -14,4 +14,4 @@ header:
   caption: ""
 ---
 
-{{< readfromfile "/content/news/news.data" 1000 >}} 
+{{< readfromfile "/content/news/data.md" 1000 >}} 
