@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Publication <sub><sub><sub><sub> (* indicates co-first author) </sup></sup></sup></sup>"
+title = "Publication <br /> <sub><sub><sub><sub>(* indicates co-first author)</sub></sub></sub></sub>"
 subtitle = ""
 
 [content]
