@@ -1,3 +1,15 @@
+To reproduce the website on a new machine, do the following:
+
+1. Recursively clone the repository:
+    ```
+    git clone --recurse-submodules -j8 git@github.com:superctj/my-website.git
+    ```
+
+2. Update the submodules:
+    ```
+    git submodule update --remote --merge
+    ```
+
 <p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
 
 # Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
